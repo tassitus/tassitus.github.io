@@ -1,0 +1,6 @@
+---
+published: true
+title: First
+layout: post
+---
+It's bittersweet, knowing two cultures ... you can never go back.
